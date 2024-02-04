@@ -1,0 +1,49 @@
+img{
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+
+
+body{
+    background-color: #F9EFDB;
+}
+h1{
+    color: #D63484;
+    font-size: 90px;
+    font-family: Sacramento ;
+    
+
+    
+}
+h2{
+    color: #E8C872;
+    font-size: 60px;
+    font-family: Gowun ; 
+}
+
+p{
+    font-family: Gowun;
+    color: #11235A;
+    font-size: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 254, 224);
+  }
+
+  nav a {
+    color: rgba(233, 72, 134, 0.705);
+    text-decoration: none;
+    padding: 14px 20px;
+    display: block;
+    transition: background-color 0.3s;
+    
+  }
+
+  nav a:hover {
+    background-color: #E8C872;
+  }
